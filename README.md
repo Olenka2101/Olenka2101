@@ -1,5 +1,6 @@
 - Hi, there👋! I’m Olga.
 - 🚀 I love learning new technologies.
+- 👩‍💻 My current stack: HTML5 | CSS3 | JavaScript | Bootstrap | GSAP | Figma
 - 🌱 I’m currently learning React, Redux, Node, MongoDB, POSTMAN
   
 
