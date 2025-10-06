@@ -1,7 +1,7 @@
 - Hi, there👋! I’m Olga.
 - 🚀 I love learning new technologies.
-- 👩‍💻 My current stack: React | JavaScript | HTML5 | CSS3 | Bootstrap | GSAP | Figma
-- 🌱 I’m currently learning  Redux, Node. 
+- 👩‍💻 My current stack:  JavaScript | HTML5 | CSS3 | Bootstrap | GSAP | Figma
+- 🌱 I’m currently learning  React, Node. 
   
 ## 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
